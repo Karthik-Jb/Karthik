@@ -28,7 +28,7 @@ printf("Type: affirmative");
 break;
 }
 else
-{printf("Type: unknown");
+{printf("Type:unknown");
 break;
 }
 }
